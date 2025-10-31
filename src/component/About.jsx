@@ -9,6 +9,7 @@ function about() {
     { name: 'Frontend Developer', content: 'Job description for frontend developer' },
     { name: 'Backend Developer', content: 'Job description for backend developer' }
     , { name: 'Data Scientist', content: 'Job description for data scientist' },
+    { name: 'DevOps Engineer', content: 'Job description for DevOps engineer' },
     { name: 'DevOps Engineer', content: 'Job description for DevOps engineer' }
   ];
 
